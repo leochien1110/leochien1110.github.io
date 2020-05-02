@@ -33,19 +33,25 @@ date: 2020-04-30 22:52:46
 
 
 # EXPERIENCE
+Research Assistant | Penn State University UAS Lab (PURL)				   Aug. 2018 – Aug. 2020 (Expected)	
 
-<font color=#66A5B4>I am blue</font>
+* Project: Unknown Area Onboard SLAM and Navigation for Micro Unmanned Aerial Vehicle (DARPA)
+	* Used Intel RealSense stereo camera (D435) for obstacle detection and environment reconstruction (voxel grid map), and tracking camera (T265) for vehicle states estimate
+	* Used OpenGL, OpenCV, ImGUI in C++ to visualize Voxel Map and camera states in ground station
+	* Collaborated the mapping code with the path planning code from Virginia Tech
+	* 2019 Vertical Flight Society Conference Volunteer
+<!-- <font color=#66A5B4>I am blue</font> -->
+
 ***
 # EDUCATION
 **The Pennsylvania State University, PA, USA** &emsp;　<font color=#66A5B4>Aug. 2018 – Present</font>	
-***M.S. Aerospace Engineering***　　　GPA:	
+***M.S. Aerospace Engineering***　　　GPA:3.65
 
 Relevant coursework: Linear Control System, Dynamics & Control of Aerospace Vehicle,
 Nonlinear Control System, Adaptive Control, Aerospace Human-Machine System 
-***
+<br><br><br>
 **National Cheng Kung University (NCKU), Tainan, Taiwan** &emsp;　<font color=#66A5B4>Sept. 2013 - June 2017</font>	
 ***B.S. Aeronautics and Astronautics***　　GPA:3.45/4.00,　Last 60 credits: 3.83 / 4.00
-
 ***
 # SKILLS
 **LANGUAGE**	
@@ -56,10 +62,10 @@ Nonlinear Control System, Adaptive Control, Aerospace Human-Machine System
 **PROGRAMS & TOOLS**
 <div class="grid">
     <div class="col-1-2">
-       <p>．C/C++<br>．Python<br>．MATLAB<br>．Simulink<br>．CATIA<br>．Solidworks<br>．AutoCAD<br>．Linux</p>
+       ．C/C++<br>．Python<br>．MATLAB<br>．Simulink<br>．CATIA<br>．Solidworks<br>．AutoCAD<br>．Linux
     </div>
     <div class="col-1-2">
-       <p>．Bash<br>．Git<br>．OpenCV<br>．OpenGL<br>．MAVSDK<br>．RealSense SDK<br>．VICON SDK</p>
+       ．Bash<br>．Git<br>．OpenCV<br>．OpenGL<br>．MAVSDK<br>．RealSense SDK<br>．VICON SDK
     </div>
 </div>
 
