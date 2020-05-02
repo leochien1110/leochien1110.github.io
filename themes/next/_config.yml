@@ -57,11 +57,11 @@ footer:
   # Icon between year and copyright info.
   icon:
     # Icon name in Font Awesome. See: https://fontawesome.com/icons
-    name: fa fa-heart
+    name: fa fa-paper-plane
     # If you want to animate the icon, set it to true.
     animated: false
     # Change the color of icon, using Hex Code.
-    color: "#ff0000"
+    color: "#000000"
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
   copyright:
@@ -179,7 +179,7 @@ site_state: true
 social:
   GitHub: https://github.com/leochien1110 || fab fa-github
   E-Mail: mailto:leochien1110@gmail.com || fa fa-envelope
-  LinkedIn: https://www.linkedin.com/in/wenyu-chien/ || fa fa-linkedin
+  LinkedIn: https://www.linkedin.com/in/wenyu-chien/ || fab fa-linkedin
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter

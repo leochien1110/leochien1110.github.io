@@ -2,6 +2,9 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+# Publish Command (clean cache, generate, deploy, backup)
+## hexo cl, hexo g, hexo d, hexo b
+
 # Site
 title: Wen-Yu Chien
 subtitle: Aerospace/Astrophotography
@@ -103,6 +106,7 @@ deploy:
   branch: master
 
 # Backup
+## GitHub: https://github.com/coneycode/hexo-git-backup
 backup:
   type: git
   theme: next
