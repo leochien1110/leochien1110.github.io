@@ -855,9 +855,9 @@ pace:
 # Dependencies: https://github.com/theme-next/theme-next-three
 three:
   enable: true
-  three_waves: false
-  canvas_lines: false
-  canvas_sphere: false
+  three_waves: true
+  canvas_lines: true
+  canvas_sphere: true
 
 # Canvas-ribbon
 # Dependencies: https://github.com/theme-next/theme-next-canvas-ribbon
