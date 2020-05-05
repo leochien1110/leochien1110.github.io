@@ -33,7 +33,8 @@ date: 2020-04-30 22:52:46
 
 
 # EXPERIENCE
-Research Assistant | Penn State University UAS Lab (PURL)				   Aug. 2018 – Aug. 2020 (Expected)	
+**Research Assistant | Penn State University UAS Lab (PURL)**
+<font color=#66A5B4>Aug. 2018 – Aug. 2020 (Expected)</font>	
 
 * Project: Unknown Area Onboard SLAM and Navigation for Micro Unmanned Aerial Vehicle (DARPA)
 	* Used Intel RealSense stereo camera (D435) for obstacle detection and environment reconstruction (voxel grid map), and tracking camera (T265) for vehicle states estimate
@@ -42,14 +43,15 @@ Research Assistant | Penn State University UAS Lab (PURL)				   Aug. 2018 – Au
 	* 2019 Vertical Flight Society Conference Volunteer
 <!-- <font color=#66A5B4>I am blue</font> -->
 
+**Unmanned Aerial Vehicle Team Leader | National Cheng Kung University**
+<font color=#66A5B4>Sept. 2015 – Aug. 2017</font>	
+{% post_link hello-world UAV Videos %}
 ***
 # EDUCATION
 **The Pennsylvania State University, PA, USA** &emsp;　<font color=#66A5B4>Aug. 2018 – Present</font>	
 ***M.S. Aerospace Engineering***　　　GPA:3.65
+<br>
 
-Relevant coursework: Linear Control System, Dynamics & Control of Aerospace Vehicle,
-Nonlinear Control System, Adaptive Control, Aerospace Human-Machine System 
-<br><br><br>
 **National Cheng Kung University (NCKU), Tainan, Taiwan** &emsp;　<font color=#66A5B4>Sept. 2013 - June 2017</font>	
 ***B.S. Aeronautics and Astronautics***　　GPA:3.45/4.00,　Last 60 credits: 3.83 / 4.00
 ***
@@ -109,13 +111,16 @@ Nonlinear Control System, Adaptive Control, Aerospace Human-Machine System
 -->
 <!-- | ．C/C++<br>．Python<br>．MATLAB<br>．Simulink<br>．CATIA<br>．Solidworks<br>．AutoCAD<br>．Linux | ．Bash<br>．Git<br>．OpenCV<br>．OpenGL<br>．MAVSDK<br>．RealSense SDK<br>．VICON SDK |
 |---|---| -->
+<br>
 
 **TEAM/CLUB**	
 * National Cheng Kung University Unmanned Aerial Vehicle Team
 
-* [Penn State Autonomous Robotics Competition Club](https://sites.psu.edu/arcc/)
+* [Penn State Autonomous Robotics Competition Club](https://sites.psu.edu/arcc/)	
 
 **AWARDS/LICENSE**	
-* FAA Part.107 Commercial Remote Pilot Certification
+* FAA Part.107 Commercial Remote Pilot Certification	
 
-**CORE COURSES**
+**RELATED COURSEWORK**	
+
+Adaptive Control｜Aerodynamics｜Aerospace｜Human-Machine Interaction and Ecological Interface Design｜Control System｜Aircraft Design｜Astronomical Observation｜Astronomy｜Computer Control of Feedback System｜Control System Dynamics and Control of Aerospace Vehicle｜Flight Mechanics｜Introduction to Image Processing, embedded Robot Vision and Human-computer Interaction｜Linear Control System｜Nonlinear Control System｜Program Design
