@@ -45,7 +45,7 @@ date: 2020-04-30 22:52:46
 
 **Unmanned Aerial Vehicle Team Leader | National Cheng Kung University**
 <font color=#66A5B4>Sept. 2015 – Aug. 2017</font>	
-{% post_link hello-world UAV Videos %}
+{% post_link 015-2017-NCKU-UAV UAV Videos %}
 ***
 # EDUCATION
 **The Pennsylvania State University, PA, USA** &emsp;　<font color=#66A5B4>Aug. 2018 – Present</font>	
