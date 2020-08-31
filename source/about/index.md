@@ -33,8 +33,8 @@ date: 2020-04-30 22:52:46
 
 
 # EXPERIENCE
-**Research Assistant | Penn State University UAS Lab (PURL)**
-<font color=#66A5B4>Aug. 2018 – Aug. 2020 (Expected)</font>	
+**Research Assistant | [Penn State University UAS Lab (PURL)](https://purl.psu.edu/)**
+<font color=#66A5B4>Aug. 2018 – Aug. 2020</font>	
 
 * Project: Unknown Area Onboard SLAM and Navigation for Micro Unmanned Aerial Vehicle (DARPA)
 	* Used Intel RealSense stereo camera (D435) for obstacle detection and environment reconstruction (voxel grid map), and tracking camera (T265) for vehicle states estimate
@@ -48,7 +48,7 @@ date: 2020-04-30 22:52:46
 {% post_link 015-2017-NCKU-UAV UAV Videos %}
 ***
 # EDUCATION
-**The Pennsylvania State University, PA, USA** &emsp;　<font color=#66A5B4>Aug. 2018 – Present</font>	
+**The Pennsylvania State University, PA, USA** &emsp;　<font color=#66A5B4>Aug. 2018 – Aug. 2020</font>	
 ***M.S. Aerospace Engineering***　　　GPA:3.65
 <br>
 
