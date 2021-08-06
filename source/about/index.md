@@ -38,7 +38,7 @@ date: 2020-04-30 22:52:46
 
 * Project: Unknown Area Onboard SLAM and Navigation for Micro Unmanned Aerial Vehicle (DARPA)
 	* Used Intel RealSense stereo camera (D435) for obstacle detection and environment reconstruction (voxel grid map), and tracking camera (T265) for vehicle states estimate
-	* Used OpenGL, OpenCV, ImGUI in C++ to visualize Voxel Map and camera states in ground station
+	* Used OpenGL, OpenCV, ImGUI in C++ to visualize Voxel Grid Map and camera states in ground station
 	* Collaborated the mapping code with the path planning code from Virginia Tech
 	* 2019 Vertical Flight Society Conference Volunteer
 <!-- <font color=#66A5B4>I am blue</font> -->
@@ -114,9 +114,15 @@ date: 2020-04-30 22:52:46
 <br>
 
 **TEAM/CLUB**	
-* National Cheng Kung University Unmanned Aerial Vehicle Team
+[National Cheng Kung University Unmanned Aerial Vehicle Team](https://www.facebook.com/NCKUUAV)
+ - 2017 Taiwan Innovative Unmanned Aircraft Design Competition, Advanced Aircraft Design (Canard Fixed Wing)
+	- 1st place in Report, Aerodynamic and Appearance Design
+ - 2016 Taiwan Innovative Unmanned Aircraft Design Competition, 4th place in Aircraft Design (T-Tail Fixed Wing)
+	- 2nd place in Report, 3rd place in Manufacture
+ - 2014 Taiwan Innovative Unmanned Aircraft Design Competition, 2nd place in Aircraft Design (A-Tail Fixed Wing)
 
-* [Penn State Autonomous Robotics Competition Club](https://sites.psu.edu/arcc/)	
+[Penn State Autonomous Robotics Competition Club](https://sites.psu.edu/arcc/)	
+ - 2nd place in 2019 International Micro Aerial Vehicle Competition (IMAV), Outdoor Competition (F-330 Quadcopter)
 
 **AWARDS/LICENSE**	
 * FAA Part.107 Commercial Remote Pilot Certification	
