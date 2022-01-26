@@ -1,4 +1,4 @@
-title: Hello World
+title: Quick Start
 categories:
   - Hexo
 tags:
@@ -60,4 +60,13 @@ $ git add .
 $ git commit
 $ git push
 ```
+
+### Editor
+##### Color
+<font color=#66A5B4>I am blue</font>
+
+<u> underscore </u>
+
+
+
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
